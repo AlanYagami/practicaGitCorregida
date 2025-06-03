@@ -6,3 +6,6 @@ Primer commit de user2
 Segundo commit de user2
 Tercer commit de user2
 Cuarto commit de user2
+
+Primer commit de user1
+Segundo commit de user1
